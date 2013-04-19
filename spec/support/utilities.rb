@@ -1,5 +1,6 @@
 def full_title(page_title)
   base_title = "DabblerMom"
+ 
   if page_title.empty?
     base_title
   else
